@@ -1,4 +1,5 @@
 
-# duplicate_image_detection
+# Duplicate Image Detection
 
-This Code help to detect the duplication pictures in one picture. Especially using in Bio-medical.
+This Code help to detect the duplication pictures in one picture. 
+Especially using in Biomedical Engineering.
