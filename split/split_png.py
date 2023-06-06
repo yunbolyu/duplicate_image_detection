@@ -19,6 +19,6 @@ def split_image(image_path, rows, columns):
             lower = upper + sub_height
 
             sub_img = image.crop((left, upper, right, lower))
-            sub_img.save(f'sub_{i}_{j}.jpg')
+            sub_img.save(f'test_lisa/sub_{i}_{j}.jpg')
 
 split_image('mona_lisa.png', 2, 4)  # 将'mona_lisa.png'切分为3x5个子图
