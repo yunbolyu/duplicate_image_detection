@@ -1,8 +1,7 @@
 
 # Duplicate Image Detection
 
-This Code help to detect the duplication pictures in one picture. 
-
+This repository hosts a tool designed for the detection of duplicate sub-figures within a larger figure. 
 Especially using in Biomedical Engineering.
 
 ## Environment Setup
